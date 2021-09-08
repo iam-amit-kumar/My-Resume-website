@@ -94,11 +94,13 @@ p {
     width: 20%;
     float: left;
     margin-right: 30px;
-}
-.coding img{
     width: 40px;
     height: 40px;
 }
+.coding img{
+/*     width: 40px;
+    height: 40px;
+} */
 .programming {
     float: right;
     margin-left: 30px;
