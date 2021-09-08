@@ -95,6 +95,10 @@ p {
     float: left;
     margin-right: 30px;
 }
+.coding img{
+    width: 16px;
+    height: 16px;
+}
 .programming {
     float: right;
     margin-left: 30px;
