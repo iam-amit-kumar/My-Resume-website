@@ -91,13 +91,10 @@ p {
     padding: 10px;
 }
 .coding {
-    width: 20%;
+    width: 30%;
+    height: 30%;
     float: left;
     margin-right: 30px;
-}
-.coding img{
-    width: 40px;
-    height: 40px;
 }
 .programming {
     float: right;
